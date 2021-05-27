@@ -1,4 +1,4 @@
-### Android 开发者、懂点其他语言
+### Android 开发者、CV工程师、懂点其他语言
 
 <p align="center">
   <a href="https://github.com/Zhao-Yan-Yan">
